@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://i.imgur.com/iASoFPO.png" alt="Nibble Logo" width="33%">
 </p>
+
 ## Introduction
 
 Nibble is a lightweight text-based file structure format designed for organizing and storing various types of data in a human-readable format. Inspired by XML but simplified for ease of use, Nibble offers a flexible way to structure your information without the complexity of markup languages.
