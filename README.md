@@ -1,5 +1,5 @@
 # Nibble
-<img src="https://i.imgur.com/iASoFPO.png" alt="Nibble Logo" width="50%">
+<img src="https://i.imgur.com/iASoFPO.png" alt="Nibble Logo" width="33%">
 
 ## Introduction
 
