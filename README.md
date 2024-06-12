@@ -1,6 +1,6 @@
 # Nibble
 
-![Nibble Logo](https://imgur.com/a/FDuxREL)
+![Nibble Logo](https://i.imgur.com/iASoFPO.png)
 
 ## Introduction
 
