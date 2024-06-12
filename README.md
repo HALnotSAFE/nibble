@@ -1,6 +1,7 @@
 # Nibble
 
-![Nibble Logo](https://i.imgur.com/iASoFPO.png)
+# Nibble
+<img src="https://i.imgur.com/iASoFPO.png" alt="Nibble Logo" width="50%">
 
 ## Introduction
 
