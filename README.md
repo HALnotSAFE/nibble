@@ -46,3 +46,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or support, contact us at nibbleproject@halsafe.com.
+
+© 2024 Nibble Project. All rights reserved.
