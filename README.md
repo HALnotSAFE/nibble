@@ -31,3 +31,20 @@ To start using Nibble, simply create a new text file with a .nibble extension an
         [Text] Welcome to Nibble! This is a sample Nibble file demonstrating its usage. [Text]
     [Section] Introduction
 [Content]
+```
+## Syntax
+The Nibble syntax is simple yet powerful. Here are the basic elements:
+
+- Square brackets []: Used to enclose elements, attributes, or text.
+- Element: Represents a structural component of the document.
+- Attributes: Optional properties associated with elements.
+- Text: Content enclosed within an element.
+
+## Contributing
+Contributions to Nibble are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or support, contact us at nibbleproject@halsafe.com.
