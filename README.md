@@ -1,6 +1,6 @@
 # Nibble
 
-![Nibble Logo]([https://raw.githubusercontent.com/HALnotSAFE/nibble/main/sources/nible-logo.png](https://imgur.com/a/FDuxREL))
+![Nibble Logo](https://imgur.com/a/FDuxREL)
 
 ## Introduction
 
