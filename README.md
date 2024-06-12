@@ -42,7 +42,7 @@ The Nibble syntax is simple yet powerful. Here are the basic elements:
 Contributions to Nibble are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 For questions or support, contact us at nibbleproject@halsafe.com.
