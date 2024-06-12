@@ -1,0 +1,29 @@
+[MetaData]
+	[Title] ReadMe.nibble [Title]
+	[Created Date] June 12, 2024 [Created Date]
+	[Description] The ReadMe file for Nibble, my file structure [Description]
+	[Author] Adam Major [Author]
+[MetaData]
+
+[Content]
+	[How To Use] Nibble is a similar layout to XML, minus the slashes. All Nibble files are text-based files. [How To Use]
+[Content]
+
+[Usage]
+    To create a new Nibble text document, follow these steps:
+    1. Open a text editor.
+    2. Define the content using the Nibble syntax.
+    3. Save the file with the .nibble extension.
+
+    To read or manipulate Nibble files programmatically, you can develop parsers or libraries that understand the Nibble syntax.
+
+    Remember to adhere to the Nibble syntax rules to ensure compatibility and readability of your text documents.
+[Usage]
+
+[Contributing]
+    Contributions to Nibble are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request on GitHub or reach out to me directly.
+[Contributing]
+
+[License]
+    This project is licensed under the MIT License. See the LICENSE file for details.
+[License]
